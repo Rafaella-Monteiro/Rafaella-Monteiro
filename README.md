@@ -28,6 +28,8 @@ Estou mergulhando em projetos práticos para consolidar meus conhecimentos, alé
 - Acredito no trabalho em equipe como uma forma de crescer e trocar conhecimentos.
 - Busco sempre aliar criatividade com lógica para alcançar resultados.
 
+<a href="https://rafaella-monteiro.github.io/meu-portfolio/#meu-portfolio">**`Visite meu Portfólio`**</a>
+
 ##
 
 <p align="left">
